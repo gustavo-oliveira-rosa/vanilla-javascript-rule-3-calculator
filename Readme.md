@@ -1,20 +1,28 @@
-# 🧮 Calculadora de Média Ponderada (Vanilla JS)
+# 📐 Simulador de Regra de Três
 
-Uma calculadora de **média ponderada** simples, moderna e responsiva feita com **HTML5**, **CSS3** e **JavaScript puro (vanilla)** — sem dependências externas.
+Um simulador interativo e educativo de regra de três desenvolvido com JavaScript vanilla, HTML e CSS. Resolva problemas de proporção de forma simples, rápida e com explicações passo a passo.
 
----
+![Simulador Regra de Três](https://img.shields.io/badge/Status-Funcionando-green)
+![Tecnologias](https://img.shields.io/badge/Tecnologias-JS%2FHTML%2FCSS-blue)
+![Licença](https://img.shields.io/badge/Licença-MIT-green)
 
-## ✨ Recursos
+## ✨ Demonstração
 
-- **Adição/remoção de linhas** (valor + peso + descrição opcional)
-- **Pesos em porcentagem** (opção para inserir pesos como 0–100%; a calculadora normaliza automaticamente)
-- **Somatórios ao vivo**: Σ(valor×peso) e Σ(pesos)
-- **Atalhos de teclado**:
-  - `Enter` → Calcular  
-  - `Ctrl + Enter` → Adicionar linha  
-  - `Esc` → Limpar valores  
-- **Acessibilidade**: rótulos, estados e navegação por teclado
-- **Responsivo**: funciona bem do mobile ao desktop
-- **Zero dependências**: apenas HTML, CSS e JS
+![Demonstração do Simulador](https://via.placeholder.com/800x400/667eea/ffffff?text=Simulador+Regra+de+Três)
 
----
+## 🚀 Características
+
+- ✅ **Suporte a dois tipos** de regra de três: direta e inversa
+- ✅ **Cálculo automático** com resultados instantâneos
+- ✅ **Explicação passo a passo** do processo de cálculo
+- ✅ **Exemplos práticos** do dia a dia
+- ✅ **Interface intuitiva** com visualização da proporção
+- ✅ **Troca rápida** de valores
+- ✅ **Design responsivo** e moderno
+- ✅ **Validação de entradas** com feedback visual
+
+## 🛠️ Tecnologias Utilizadas
+
+- **HTML5** - Estrutura semântica
+- **CSS3** - Estilização moderna com Grid e Flexbox
+- **JavaScript ES6+** - Lógica de cálculo e interatividade
